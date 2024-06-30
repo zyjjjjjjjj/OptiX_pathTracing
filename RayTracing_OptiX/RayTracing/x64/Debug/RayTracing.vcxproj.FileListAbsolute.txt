@@ -1,0 +1,2 @@
+C:\Users\zyj\Documents\Project\RayTracing_OptiX\RayTracing\x64\Debug\RayTracing.exe
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\x64\Debug\RayTracing.exe

@@ -1,0 +1,68 @@
+﻿  main.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\cuda.h(22423,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\Material_def.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\main.cpp(117,75): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\main.cpp(118,36): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\main.cpp(119,36): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\main.cpp(123,76): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\main.cpp(124,36): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\main.cpp(125,36): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\main.cpp(136,92): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+  Model.cpp
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\Material_def.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\3rdParty\stb_image.h(7192,9): warning C4068: 未知的杂注“clang”
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\Model.cpp(44,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\Model.cpp(260,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\Model.cpp(261,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\Model.cpp(262,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  SampleRenderer.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\cuda.h(22423,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\Material_def.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\SampleRenderer.cpp(467,44): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码...
+  MyShader.c
+glfWindow.lib(GLFWindow.obj) : warning LNK4099: 未找到 PDB“”(使用“glfWindow.lib(GLFWindow.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(input.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(init.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_thread.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_thread.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_joystick.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_time.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_init.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(vulkan.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(vulkan.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(wgl_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(egl_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(egl_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(osmesa_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(osmesa_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  RayTracing.vcxproj -> C:\Users\zyj\Documents\GitHub\OptiX_pathTracing\RayTracing_OptiX\RayTracing\x64\Debug\RayTracing.exe
